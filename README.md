@@ -1,4 +1,4 @@
 # Python
 This is the basic python practice Repo.
 <br>
-Author - Sattik Siraj
+Author - Sattik Siraj (The king)
