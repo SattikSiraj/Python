@@ -10,4 +10,3 @@ print("Your name has " + str(numofLetters) + " characters.")  # type conversion
 
 #to know the length of the input string
 # print(len(input()))
-
